@@ -10,6 +10,6 @@
     {"id":0, "app":"com.android.game"}
   ],
   "free":[
-{"id":0,"file":0,"city":0,"country":"United States","image":"unitedstates","ip":"219.100.37.211","active":"true","signal":"a"}
+{"id":0,"file":0,"city":"New York","country":"United States","image":"unitedstates","ip":"219.100.37.211","active":"true","signal":"a"}
  ]
 }
