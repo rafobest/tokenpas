@@ -24,7 +24,7 @@
 ###############################################################################
 # Specify the type of the layer of the VPN connection.
 # 
-# To connect to the VPN Server as a "Remote-Access VPN Client PC",
+# To connect to the VPN Server as a,
 #  specify 'dev tun'. (Layer-3 IP Routing Mode)
 #
 # To connect to the VPN Server as a bridging equipment of,
