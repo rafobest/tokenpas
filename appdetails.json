@@ -7,7 +7,7 @@
     "size":"https://git.io/JeY69"
   }],
   "blocked":[
-    {"id":0, "app":"com.android.game"},
+    {"id":0, "app":"com.torrent.client"},
     {"id":1, "app":"com.utorrent.client"},
     {"id":2, "app":"com.torrent.client"},
     {"id":3, "app":"com.tor.client"},
